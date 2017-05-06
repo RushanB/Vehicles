@@ -7,7 +7,7 @@
 //
 
 #import "VehicleListTableViewController.h"
-
+#import "Car.h"
 #import "VehicleDetailViewController.h"
 #import "Vehicle.h"
 
